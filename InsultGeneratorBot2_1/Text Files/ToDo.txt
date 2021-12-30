@@ -1,0 +1,11 @@
+1. Randomly choose an insult from Insults.txt
+    1) Find the total number of lines in Insults.txt [DONE]
+    2) Make total number of lines update when ever a new insult is added to the list
+    3) Randomly pick one of those lines [DONE]
+
+2. Create AddInsults method
+    - This method will allow people to add insults to Insults.txt by using a command
+
+3. Talk to Adam about bot testing to get it on the server
+
+4. Host bot via heroku
