@@ -1,1 +1,1 @@
-Worker: java src/main/BotStartup.java 
+Worker: java ./src/Main/BotStartup.java 
