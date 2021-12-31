@@ -7,7 +7,7 @@ import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
 
 public class BotStartup {
-	static String token = "OTI1NDk0NjA0MTA1Njc4ODU4.Yct8BA.lP1XBdMdJkMVnMEkRr-jycf6RU8";
+	static String token = System.getenv("TOKEN");
 
 	static CreateFile iMObj = new CreateFile();
 	static ReadFile rFObj = new ReadFile();
