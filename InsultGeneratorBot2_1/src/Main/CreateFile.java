@@ -1,7 +1,7 @@
 // Creates Insults.txt
 // Chooses an insult from Insults.txt to output
 
-package Main;
+package main;
 
 import java.io.File;
 import java.io.IOException;
